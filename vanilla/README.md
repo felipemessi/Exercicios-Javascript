@@ -9,3 +9,6 @@
 * 7 - Faz um To-Do List.
 * 8 - Verifica números pares.
 * 9 - Verifica Experiencia de acordo com a quantidade de anos em programação.
+* 10 - Lê api com a lib axios
+* 11 - Lê api com ajax
+* 10 - Lidando com promises
