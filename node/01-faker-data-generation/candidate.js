@@ -4,43 +4,43 @@ var fs = require('fs')
 
 let data = []
 let count = 0
-while (count < 12) {
+while (count < 120000) {
   let cpf = fakerbr.br.cpf()
   let name = faker.name.firstName()
   name,
-  email,
-  cpf,
-  phone,
-  gender,
-  birthday,
-  country,
-  city,
-  neighborhood,
-  street,
-  homeNumber,
-  complement,
-  zipCode,
-  latitude,
-  longitude
+  // email,
+  // cpf,
+  // phone,
+  // gender,
+  // birthday,
+  // country,
+  // city,
+  // neighborhood,
+  // street,
+  // homeNumber,
+  // complement,
+  // zipCode,
+  // latitude,
+  // longitude
   // skills,
 
 
   data.push({
     name,
-    email,
-    cpf,
-    phone,
-    gender,
-    birthday,
-    country,
-    city,
-    neighborhood,
-    street,
-    homeNumber,
-    complement,
-    zipCode,
-    latitude,
-    longitude
+    // email,
+    // cpf,
+    // phone,
+    // gender,
+    // birthday,
+    // country,
+    // city,
+    // neighborhood,
+    // street,
+    // homeNumber,
+    // complement,
+    // zipCode,
+    // latitude,
+    // longitude
     // skills,
   })
   count ++
